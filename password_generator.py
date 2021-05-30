@@ -1,6 +1,9 @@
 import time
 import string
 from random import *
+#made by Ja'Crispy
+#please dont steal this and make it yours, thats not only rude but its also very annoying
+#hope you enjoy and feel free to make changes
 while True:
     tool = input("1. generate, 2. exit: ")
 
